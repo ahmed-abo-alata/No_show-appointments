@@ -22,3 +22,9 @@ of the last column: it says ‘No’ if
 the patient showed up to their
 appointment, and ‘Yes’ if they
 did not show up.
+
+### project needs:
+* python 3
+* numpy
+* pandas
+* matplotlib
